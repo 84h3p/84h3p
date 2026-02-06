@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm 84h3p <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> </h1>
 
   - Network Engineering
-  - DevOps Engineering
   - FiveM Things
-
+  - SysAdmin
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!---
